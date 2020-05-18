@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/Customizable_cars_pack_style1/Assets_showcase_scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
